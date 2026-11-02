@@ -23,6 +23,7 @@ Rules for the shapes and colours:
 - Green is for Health (Puregym)
 - Yellow is for Food (Deliveroo, Just Eat)
 - Orange is for Communication (Whatsapp)
+- Purple is for Banking (Monzo)
 
 Number of rings:
 - The number of rings shows how long I used the app. Quick checks have fewer rings, and long checks have the most rings.
