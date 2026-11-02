@@ -1,36 +1,35 @@
-|Dates  |Duration(Mins)|Use          |Apps     |
-|19/10  | 5            |Education    |Seats    |
-|19/10  | 10           |Education    |Moodle   |
-|19/10  | 50           |Entertainment|Snapchat |
-|19/10  | 15           |Banking      |Monzo    |
-|20/10  | 55           |Education    |Moodle   |
-|22/10  | 55           |Entertainment|Snapchat |
-|22/10  | 10           |Education    |Seats    |
-|22/10  | 5            |Education    |Moodle   |
-|23/10  | 25           |Entertainment|Snapchat |
-|23/10  | 20           |Education    |Seats    |
-|24/10  | 10           |Banking      |Monzo    |
-|24/10  | 15           |Entertainment|Youtube  |
-|26/10  | 10           |Education    |Seats    |
-|26/10  | 30           |Health       |Puregym  |
-|26/10  | 40           |Entertainment|Snapchat |
-|26/10  | 5            |Banking      |Monzo    |
-|27/10  | 10           |Health       |Puregym  |
-|28/10  | 55           |Entertainment|Tiktok   |
-|28/10  | 10           |Education    |Seats    |
-|28/10  | 10           |Education    |Moodle   |
-|29/10  | 30           |Entertainment|Tiktok   |
-|29/10  | 10           |Education    |Seats    |
-|29/10  | 10           |Education    |Moodle   |
-|30/10  | 55           |Entertainment|Tiktok   |
-|30/10  | 15           |Education    |Seats    |
-|31/10  | 15           |Health       |Puregym  |
-|31/10  | 45           |Entertainment|Snapchat |
-|31/10  | 20           |Banking      |Monzo    |
-|01/11  | 10           |Education    |Moodle   |
-|01/11  | 50           |Entertainment|Youtube  |
-|01/11  | 10           |Education    |Seats    |
-|02/11  | 50           |Education    |Moodle   |
-|02/11  | 45           |Entertainment|Snapchat |
-|02/11  | 10           |Health       |Puregym  |
-          
+Dates,Duration(Mins),Use,Apps
+19/10,5,Education,Seats
+19/10,10,Education,Moodle
+19/10,50,Entertainment,Snapchat
+19/10,15,Banking,Monzo
+20/10,55,Education,Moodle
+22/10,55,Entertainment,Snapchat
+22/10,10,Education,Seats
+22/10,5,Education,Moodle
+23/10,25,Entertainment,Snapchat
+23/10,20,Education,Seats
+24/10,10,Banking,Monzo
+24/10,15,Entertainment,Youtube
+26/10,10,Education,Seats
+26/10,30,Health,Puregym
+26/10,40,Entertainment,Snapchat
+26/10,5,Banking,Monzo
+27/10,10,Health,Puregym
+28/10,55,Entertainment,Tiktok
+28/10,10,Education,Seats
+28/10,10,Education,Moodle
+29/10,30,Entertainment,Tiktok
+29/10,10,Education,Seats
+29/10,10,Education,Moodle
+30/10,55,Entertainment,Tiktok
+30/10,15,Education,Seats
+31/10,15,Health,Puregym
+31/10,45,Entertainment,Snapchat
+31/10,20,Banking,Monzo
+01/11,10,Education,Moodle
+01/11,50,Entertainment,Youtube
+01/11,10,Education,Seats
+02/11,50,Education,Moodle
+02/11,45,Entertainment,Snapchat
+02/11,10,Health,Puregym
